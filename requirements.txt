@@ -3,7 +3,10 @@ uvicorn
 ultralytics
 Pillow
 gunicorn
+uvicorn
 python-multipart
 numpy
 opencv-python
 streamlit
+apscheduler
+requests
